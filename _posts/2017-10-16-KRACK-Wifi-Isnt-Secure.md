@@ -22,5 +22,5 @@ Remember, any web traffic going over HTTPS will still be encrypted with TLS/SSL,
 
 As for a long term fix, hopefully most router and hotspot manufacturers will start releasing updated firmware that can address these vulnerabilities. But there are no guarantees that such updates will be available soon (or at all.) Keep your eyes on the news and check with your manufacturer for when such an update might be released.
 
-For more info, see this article:
+For more info, Ars Technica has a good breakdown:
 [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/](https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/)
