@@ -3,68 +3,13 @@ layout: page
 title: 
 permalink: /resume/
 ---
-<style type="text/css">
-	.wrapper-masthead {
-		margin-bottom: 25px;
-	}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/resume.css" />
 
-	body {
-		font-size: 10pt;
-	}
-
-	h1 {
-		font-size: 11pt;
-		margin: 2px 0;
-		font-family: "Open Sans", sans-serif;
-	}
-	
-	h2 {
-		font-size: 10pt;
-		margin: 15px 0 0 0;
-		font-family: "Open Sans", sans-serif;
-	}
-	
-	hr {
-		margin: 5px;
-	}
-	
-	p {
-		margin: 0;
-	}
-	
-	ul {
-		margin-top: 0px;
-		margin-bottom: 15px;
-	}
-	
-	.center {
-		text-align: center;
-	}
-	.right {
-		text-align: right;
-	}
-	em, .bold {
-		font-weight: bold;
-	}
-	i, .ital {
-		font-style: italic;
-	}
-	
-	.space-bottom {
-		margin-bottom: 15px;
-	}
-	
-	.100 {
-		width: 100%;
-	}
-</style>
-
-<p class="right 100"><a href="/JasonWells-Resume-2017.pdf" target="_blank">Download as PDF</a></p>
+<p class="right"><a href="{{ site.baseurl }}/JasonWells-Resume-2017.pdf" target="_blank">Download as PDF</a></p>
 
 <h1 class="center">Jason Wells</h1>
 <hr />
 <p class="center">Champaign, IL 61821 • jason@wells.solutions • 636-253-3553 • http://wells.solutions</p>
-
 
 <h2 class="center">Software Architect / Full Stack Developer</h2>
 <ul>
