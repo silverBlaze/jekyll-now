@@ -71,7 +71,7 @@ permalink: /resume/
 <p>Defending .NET; CSSLP Domain 1; CSSLP Domain 3 (Courses) - <i>Security Compass</i> (Nov 2015)</p>
 
 <h2 class="center">Recent Volunteer Experience</h2>
-<p>Summer of Code Mentorship Program, LaunchCode - St. Louis, MO (June 2016)</p>
+<p><b>Summer of Code Mentorship Program</b>, <i>LaunchCode</i> - St. Louis, MO (June 2016)</p>
 <p>Provided one-on-one mentoring for self-taught .NET programmers trying to jumpstart their professional development careers. Engaged candidates in a 9-week program, coaching them to complete a “job-ready” portfolio project that would help qualify them for the LaunchCode apprenticeship program.</p>
 
 <h2 class="center">Education</h2>
