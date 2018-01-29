@@ -9,7 +9,7 @@ permalink: /resume/
 
 <h1 class="center">Jason Wells</h1>
 <hr />
-<p class="center">jason@wells.solutions • 636-253-3553 • http://wells.solutions</p>
+<p class="center">jason@wells.solutions • 636-253-3553 • <a href="http://wells.solutions">http://wells.solutions</a></p>
 
 <h2 class="center">Software Architect / Full Stack Developer</h2>
 <ul>
