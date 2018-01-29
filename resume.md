@@ -4,8 +4,9 @@ title:
 permalink: /resume/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/resume.css" />
+<link rel="stylesheet" type="text/css" media="print" href="{{ site.baseurl }}/noprint.css" />
 
-<p class="right"><a href="{{ site.baseurl }}/JasonWells-Resume-2018.pdf" target="_blank">Download as PDF</a></p>
+<p class="right no-print"><a href="{{ site.baseurl }}/JasonWells-Resume-2018.pdf" target="_blank">Download as PDF</a></p>
 
 <h1 class="center">Jason Wells</h1>
 <hr />
