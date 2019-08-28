@@ -6,8 +6,6 @@ permalink: /resume/
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/resume.css" />
 <link rel="stylesheet" type="text/css" media="print" href="{{ site.baseurl }}/noprint.css" />
 
-<p class="right no-print"><a href="{{ site.baseurl }}/JasonWells-Resume-2019.pdf" target="_blank">Download as PDF</a></p>
-
 <h1 class="center">Jason Wells</h1>
 <hr />
 <p class="center">jason@wells.solutions • 636-253-3553 • <a href="http://wells.solutions">http://wells.solutions</a></p>
@@ -33,15 +31,15 @@ permalink: /resume/
 
 <p class="bold">Wells Fargo Advisors (May 2018 - Present)</p>
 <div class="indent-1">
-<p><span class="bold">Application Systems Engineer - Contractor with TEKsystems</span>, St. Louis, MO (May 2018 - Present)</p>
-<p class="space-bottom">Started off as a senior developer on the 3FOX Consolidated Reporting capability team. Over time, took on multiple additional responsibilities, including interacting with business users to analyze business requirements; helping data services to identify technical requirements and design data models; working closely with domain services to provide functional specifications; and assisting project management to identify and resolve gaps across all impacted applications in the Consolidated Reporting project.</p>
+<p><span class="bold">Apps Systems Engineer</span>, St. Louis, MO (May 2018 - Present)</p>
+<p class="space-bottom">Started off as a senior developer on an internal Financial Advisor tool recording externally held assets and liabilities. Over time, took on multiple additional responsibilities, including interacting with business users to analyze business requirements; helping data services to identify technical requirements and design data models; working closely with domain services to provide functional specifications; and assisting project management to identify and resolve gaps across all impacted frontend and backend applications.</p>
 <p class="bold">Accomplishments:</p>
 <ul>
-	<li>Provided expert Git advice on managing repositories for multiple 3FOX capability projects, including designing a cross-team rebase strategy; also facilitated a major directory restructure in the core 3FOX web application repository without impacting onshore and offshore development teams</li>
-<li>Performed analysis and created documentation for 3FOX middleware API (1WAFO) by using Fiddler to proxy AJAX requests in SmartStation; cross-trained 3FOX developers to use Fiddler to debug API requests</li>
-<li>Organized and led multiple discovery sessions with product owners and business users to reconcile gaps in the Business Requirements Definition document, identifying a number of undocumented requirements</li>
-<li>Helped create System Architecture Specification, creating diagrams and documenting use cases</li>
-<li>Created Functional Specification Design document for all Consolidated Reporting consumers (3FOX, 3ROX, and NaviPlan/4A,) detailing requirements and design for ten domain services and third-party integration</li>
+<li>Tech-lead on system managing Financial Advisor succession, including secure code reviews of SPA and .NET backend</li>
+<li>Provided expert Git advice on managing repositories for development teams working on staged versions of the same application, including designing a cross-team rebase strategy; also facilitated a major directory restructure in the core web application repository without impacting onshore and offshore development teams</li>
+<li>Performed analysis and created documentation for middleware API by using Fiddler to proxy AJAX requests from a customized internal-browser; cross-trained frontend developers to use Fiddler to debug their API requests</li>
+<li>Organized and led multiple discovery sessions with product owners and business users to reconcile gaps in the Business Requirements Definition document, identifying a number of undocumented requirements; Helped create System Architecture Specification, creating diagrams and documenting use cases</li>
+<li>Created an extensive Functional Specification Design document for all frontend consumers, detailing requirements and recommended design for ten separate backend services and a third-party integration</li>
 </ul>
 </div>
 
@@ -73,7 +71,7 @@ permalink: /resume/
 </div>
 
 <h2 class="center">Recent Project Experience</h2>
-<p class="space-bottom"><b>3FOX Consolidated Reporting (2018 - 2019)</b> Senior developer, analyst, and subject-matter expert for a project to migrate third-party vendor functionality to an in-house financial advisor web application, including ability to save external assets and liabilities and provide risk-based analysis and controls. <i>Angular, Node.js, C#, Web API, JSON</i></p>
+<p class="space-bottom"><b>Financial Advisor Assets &amp; Liabilities System(2018 - 2019)</b> Senior developer, analyst, and subject-matter expert for a project to replace/recreate third-party vendor functionality to an in-house financial advisor web application, including ability to save external assets and liabilities and provide risk-based analysis and controls. <i>Angular, Node.js, C#, Web API, JSON</i></p>
 <p class="space-bottom"><b>All-in-one Billing and Payments Platform (2012 - 2018)</b> Architect and developer of an n-tier system providing payment and billing features to over a half million enrolled users across multiple businesses. Initially developed on ASP.NET Webforms in 2012, continuous refactorings and client-additions have seen this product evolve into multiple SSO-integrated web apps using MVC with responsive single-page designs, powered by a WCF middleware layer and SQL Server backend. <i>C#, MVC, Bootstrap, Razor, jQuery, WCF, SQL Server, Entity Framework, LINQ</i></p>
 <p class="space-bottom"><b>WCF Service-oriented Architecture (2017 - 2018)</b> Innovator and lead developer for a set of enterprise-level WCF services that encapsulated complex integrations and reusable functionality. Allowed internal applications to easily integrate with external client and vendor APIs, regardless of standards or compatibility. Also replaced redundant code and GAC assemblies which were difficult to maintain across multiple servers due to complex machine configurations and dependencies. <i>C#, WCF, JSON, SOAP, Entity Framework, ADO.NET, MSMQ, Postman, SoapUI, Groovy</i></p>
 <p class="space-bottom"><b>Multi-Payment Transaction UI Component (2017)</b> Designer and developer of a complex, reusable MVC component allowing multiple payments to be entered within one transaction. Required several different lines of business to be paid through one interface, each with its own UI and business rules. Utilizes Razor partial-views and jQuery for a highly dynamic user experience based on live service data and config settings. Reusable partial-views and scripts utilized in multiple products with similar requirements. <i>C#, MVC, Razor, jQuery, Bootstrap</i></p>
